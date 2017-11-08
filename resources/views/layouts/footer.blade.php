@@ -1,0 +1,13 @@
+	<script src="{{asset('template/js/jquery.js')}}"></script>
+	<script src="{{asset('template/js/jquery.scrollTo.js')}}"></script>
+	<script src="{{asset('template/js/jquery.nav.js')}}"></script>
+	<script src="{{asset('template/js/jquery.localScroll.js')}}"></script>
+	<script src="{{asset('template/js/bootstrap.js')}}"></script>
+	<script src="{{asset('template/js/jquery.prettyPhoto.js')}}"></script>
+	<script src="{{asset('template/js/isotope.js')}}"></script>
+	<script src="{{asset('template/js/jquery.flexslider.js')}}"></script>
+	<script src="{{asset('template/js/inview.js')}}"></script>
+	<script src="{{asset('template/js/animate.js')}}"></script>
+	<script src="{{asset('template/js/custom.js')}}"></script>
+	<script src="{{asset('template/js/jquery.validate.min.js')}}"></script>
+	<script src="{{asset('template/contactform/contactform.js')}}"></script>
